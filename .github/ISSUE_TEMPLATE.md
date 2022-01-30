@@ -1,10 +1,10 @@
 ## Type
-
-- [ ] New Feature
-- [ ] Bug Fix
-- [ ] Config
-- [ ] style
-- [ ] refactoring
+  
+  - [ ] New Feature
+  - [ ] Bug Fix
+  - [ ] Config
+  - [ ] style
+  - [ ] refactoring
 
 ## Content details
 
