@@ -1,23 +1,21 @@
-## WARNING
-- Action + Problem + Context + What
-- Fix Misalignment of Box in Featured Contents
-- Update Content in Blog
-- Build Brand New Landing Page
-- Add Additional Promotion on Main Modal
+## Type
 
-## Problem & Opportunity
+- [ ] New Feature
+- [ ] Bug Fix
+- [ ] Config
+- [ ] style
+- [ ] refactoring
 
-## Context or Reproduce
+## Content details
 
-## UX Flow
+- 메인 페이지
 
-## Checklist
-- [ ]
-- [ ]
-- [ ]
+    - 내용
 
-## Image Reference
+## Description
 
-## Links
+- 추가 설명
 
-### CC
+## Problem
+
+- 문제
