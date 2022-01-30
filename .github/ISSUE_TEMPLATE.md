@@ -1,20 +1,20 @@
 ## Type
-  
-  - [ ] New Feature
-  - [ ] Bug Fix
-  - [ ] Config
-  - [ ] style
-  - [ ] refactoring
 
-## Content details
+- [ ] Feature
+- [ ] Bug Fix
+- [ ] Config
+- [ ] Refactoring
+- [ ] Test
+- [ ] Docs
 
-- 메인 페이지
+## Contents
 
-    - 내용
+- 기능 (로그인, 회원가입)
+
 
 ## Description
 
-- 추가 설명
+- 내용 (Spring Security 활용하여 admin_user 완성)
 
 ## Problem
 

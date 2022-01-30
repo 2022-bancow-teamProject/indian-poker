@@ -1,16 +1,15 @@
-Please ensure your pull request adheres to the following guidelines:
-- [ ] Use the following format: `* [owner/repo](link)`
-- [ ] Link additions should be added to the bottom of the relevant category.
-- [ ] New categories or improvements to the existing categorization are welcome.
-- [ ] Search previous suggestions before making a new one, as yours may be a duplicate.
-- [ ] Sort by alphabetical order
+## What is this PR
 
-<!-- Choose one of these types and delete else -->
+- Pull Request 설명
+
+## Changes
+
+- 어떤 부분에 리뷰어가 집중하면 좋을지
+
+## Issue Number
+
 fix #
-resolve #
-close #
 
-## Proposed Changes
--
--
--
+resolve #
+
+close #
